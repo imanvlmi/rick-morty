@@ -1,0 +1,12 @@
+.banner {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.imageCard {
+  background-size: contain;
+  padding: 0.5rem;
+  border-radius: 0.8rem;
+  overflow: hidden;
+}
